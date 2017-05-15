@@ -13,10 +13,11 @@ import org.mybatis.generator.api.dom.java.JavaVisibility;
 import org.mybatis.generator.internal.DefaultShellCallback;
 
 /**
- * 
- * 生成扩展接口
- * @author wyg
- *
+ * Project Name: MapperExtPlugin
+ * Package Name: me.caixin.myBatisGeneratorPlugin.mapper
+ * Function: 生成扩展java文件的,继承原来的mapper
+ * User: roy.cai
+ * Date: 2017-05-02
  */
 public class MapperExtPlugin extends PluginAdapter {
 

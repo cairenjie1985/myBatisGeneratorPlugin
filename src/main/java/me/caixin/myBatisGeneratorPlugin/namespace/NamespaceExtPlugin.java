@@ -8,9 +8,11 @@ import org.mybatis.generator.api.dom.xml.Attribute;
 import org.mybatis.generator.api.dom.xml.Document;
 
 /**
- * xml namespace 改成扩展接口的名称
- * @author Administrator
- *
+ * Project Name: NamespaceExtPlugin
+ * Package Name: me.caixin.myBatisGeneratorPlugin.namespace
+ * Function: 生成扩展xml文件的namespace
+ * User: roy.cai
+ * Date: 2017-05-02
  */
 public class NamespaceExtPlugin extends PluginAdapter {
 

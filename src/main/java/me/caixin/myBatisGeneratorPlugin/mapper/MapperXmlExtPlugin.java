@@ -15,9 +15,11 @@ import org.mybatis.generator.codegen.XmlConstants;
 import org.mybatis.generator.internal.DefaultShellCallback;
 
 /**
- * 生成扩展xml
- * @author Administrator
- *
+ * Project Name: MapperXmlExtPlugin
+ * Package Name: me.caixin.myBatisGeneratorPlugin.mapper
+ * Function: 生成扩展xml文件
+ * User: roy.cai
+ * Date: 2017-05-02
  */
 public class MapperXmlExtPlugin extends PluginAdapter {
 
